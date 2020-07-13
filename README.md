@@ -1,5 +1,5 @@
 ### Hi there 👋
-[alt text](https://github.com/Towernter/Towernter/master/logo.jpg?raw=true)
+[Towernter](https://github.com/Towernter/Towernter/master/logo.jpg)
 <!--
 **Towernter/Towernter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
